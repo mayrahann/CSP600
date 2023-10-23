@@ -1,4 +1,5 @@
 # PROJECT PROPOSAL
+NURUL HUMAIRA HANNANI BINTI SAEDIN
 ## Dream Wedding: Mobile Application for Wedding Organizer Assistant using Geolocation
 ### Project Background
 
